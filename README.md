@@ -1,7 +1,7 @@
 # Elodie Mendes - PORTFOLIO
 Bienvenue sur mon Portfolio
 
-Bonjour, je suis Élodie — Data Analyst & Cheffe de Projet Data
+Je suis Élodie — Data Analyst & Cheffe de Projet Data
 
 -> 10 ans d’expérience en achats internationaux
 
