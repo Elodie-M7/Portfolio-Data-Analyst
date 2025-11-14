@@ -74,13 +74,13 @@ prétraitement et la manipulation des données, bonnes pratiques en termes de da
 
 ## Compétences
 
-Data
+**Data**
 
 Python | Pandas | SQL | Tableau | Power BI | Machine Learning | Statistiques
 
-Gestion & business
+**Gestion & business**
 
-Gestion de projet | KPIs | Achats internationaux | Sourcing Asie
+KPIs | Achats internationaux | Sourcing Asie
 Pricing | Logistique Internationale | Packaging & conformité
 
 ## Soft skills
@@ -94,7 +94,7 @@ Pricing | Logistique Internationale | Packaging & conformité
 -  Licence AES – Sorbonne Paris Nord
 -  DUT Techniques de Commercialisation – Sorbonne Paris Nord
 
-📬 Me contacter
+## Me contacter
 
 📧 (email)
 🔗 LinkedIn :[Profil Linkedin](linkedin.com/in/elodie-mendes-9905ba116) 
