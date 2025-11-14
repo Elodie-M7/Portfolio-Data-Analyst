@@ -103,7 +103,7 @@ Pricing | Logistique Internationale | Packaging & conformité
 ##  Formations
 
 -  Data Analyst – OpenClassrooms
--  Master Management de projet – Ascencia Business School
+-  Master Management de projet option Commerce International – Ascencia Business School
 -  Licence AES – Sorbonne Paris Nord
 -  DUT Techniques de Commercialisation – Sorbonne Paris Nord
 
