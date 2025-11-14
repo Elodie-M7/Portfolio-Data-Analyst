@@ -13,7 +13,7 @@ Analyse & visualisation de données
 
 Gestion de projet data (cadrage, cahier des charges, KPI, qualité)
 
-Machine Learning (regression, classification, clustering, ACP)
+Machine Learning (méthode supervisée/méthode non supervisée)
 
 Tableau & Power BI (dashboards interactifs)
 
