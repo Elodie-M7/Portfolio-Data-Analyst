@@ -23,57 +23,55 @@ Documentation, data storytelling & vidéos pédagogiques
 
 ## Mes projets
 
-### Analyse des ventes d’une librairie – Statistiques
+### Analyse des ventes d’une librairie en ligne
 
 Outils : Python,Pandas
 
 ➤ Tests statistiques, étude de corrélations
 
 
-### Optimisation de la gestion des données pour un site-ecommerce
+### Optimisation de la gestion des données pour une boutique en ligne
 
 Outils: Python
 
 ➤ Consolisation de données & traitement de données, analyses exploratoires de fichiers, préparation des données pour l'analyse
 
-### Étude de santé publique – Analyse exploratoire
-
+### Étude de santé publique
 Outils : Python
 
-➤ Nettoyage, tendances, représentations visuelles
+➤ Nettoyage, Analyse exploratoire, représentations visuelles
 
-
-### Création et utilisation d'une Base de données immobilière SQL – Modélisation & requêtes
+### Création et utilisation d'une Base de données immobilière SQL
 
 Outils: SQL
 
-➤ +20 requêtes, modèle conceptuel de données, normalisation
+➤ +20 requêtes, Modélisation (MCD) & requêtes, normalisation
 
 
-### Détection de faux billets – Machine Learning
+### Détection de faux billets
 
 Outils: Python (Scikit-learn)
 
-➤ ACP + régression logistique + modèles comparés
+➤ – Machine Learning (ACP + régression logistique +  modèles supervisés)
 
-### Suivi de l'avancements de projets - Data Visualisation
-
-Outils: Dashboard Power BI 
-
-➤ Avancement, coûts, délais, qualité, efficacité
-
-
-### Etude sur l'eau potable - Dashboard Power BI 
+### Suivi de l'avancements de projets
 
 Outils: Dashboard Power BI 
 
-➤ Recherche de données pertinentes, storytelling, 
+➤ Data Visualisation (Avancement, coûts, délais, qualité, efficacité)
+
+
+### Etude sur l'eau potable
+
+Outils: Dashboard Power BI 
+
+➤ Recherche de données pertinentes pour l'analyse, storytelling, 
 prétraitement et la manipulation des données, bonnes pratiques en termes de data visualisation
 
 
 ### Etude de marché pour un aviculteur
 
-➤ Machine Learning (Methode non supervisée - ACP/Clustering), recherche de données pertinentes
+➤ Machine Learning (Methode non supervisée -> ACP/Clustering), recherche de données pertinentes
 
 
 ### Tableau de bord : Veille IA (supply chain)
