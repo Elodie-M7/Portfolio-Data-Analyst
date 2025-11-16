@@ -23,7 +23,7 @@ Documentation, data storytelling & vidéos pédagogiques
 
 ## Mes projets
 
-### Analyse des ventes d’une librairie en ligne
+### [Analyse des ventes d’une librairie en ligne]([Mes_projets/Analyse des ventes d’une librairie en ligne](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/130af05039fa599187305c7b8a316fe803de7a85/Mes_projets/Analyse%20des%20ventes%20d%E2%80%99une%20librairie%20en%20ligne))
 
 Outils : Python,Pandas
 
