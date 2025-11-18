@@ -28,6 +28,8 @@
 ## Projets Data
 
 ### 📘 Analyse des ventes d’une librairie
+![librairie](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/06112aae6dadc525fd47262a6fdeb69ee76d7eea/img/librairie%20en%20ligne.png)
+
 **Python, Pandas**  
 Tests statistiques, corrélations  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/130af05039fa599187305c7b8a316fe803de7a85/Mes_projets/Analyse%20des%20ventes%20d%E2%80%99une%20librairie%20en%20ligne)
