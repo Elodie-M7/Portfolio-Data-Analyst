@@ -28,7 +28,7 @@
 ## Projets Data
 
 ### Analyse de vente pour la grande distribution
-![marketing](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/Le%20grand%20March%C3%A9%20banni%C3%A8re.png)
+![marketing](/img/Le%20grand%20March%C3%A9%20banni%C3%A8re.png)
 
 **Data visualisation, Storytelling**
 
