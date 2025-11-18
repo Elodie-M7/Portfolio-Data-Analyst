@@ -27,6 +27,16 @@
 
 ## Projets Data
 
+### Analyse de vente pour la grande distribution
+![marketing](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/Le%20grand%20March%C3%A9%20banni%C3%A8re.png)
+
+**Data visualisation, Storytelling**
+*Contexte*: Une entreprise de grande distribution en ligne a besoin du rapport mensuel des actions marketing.
+*Objectifs*: Analyser les résultats des actions marketing menés par le service marketing et présenter les résultats à l'aide du storytelling
+*Actions*: Conception de graphiques sur Excel, organisation de la présentation selon les principes du storytelling
+*Résultats*: Proposition des recommandations des actions à mettre en place à destinantion de l'équipe marketing. 
+
+
 ### 📘 Analyse des ventes d’une librairie
 ![librairie](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/06112aae6dadc525fd47262a6fdeb69ee76d7eea/img/librairie%20en%20ligne.png)
 
@@ -37,26 +47,34 @@ Tests statistiques, corrélations
 ---
 
 ### 📦 Optimisation des données e-commerce  
+![boutique vin](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/boutique%20vin.png)
+
 **Python**  
 Consolidation, nettoyage, EDA  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Optimiser%20la%20gestion%20des%20donn%C3%A9es%20boutique%20e-commerce)
 
 ---
 
-### 🩺 Étude de santé publique  
+### 🩺 Étude de santé publique
+![santé FAO](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20sante%20publique.png)
+
 **Python**  
 Nettoyage, analyses exploratoires  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Etude%20sur%20la%20faim%20dans%20le%20monde)
 
 ---
 
-### 🏠 Base de données immobilière SQL  
+### 🏠 Base de données immobilière SQL
+![immobilier](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/agence%20immobili%C3%A8re.png)
+
 Modélisation (MCD), +20 requêtes SQL  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Cr%C3%A9er%20et%20G%C3%A9rer%20une%20base%20de%20donn%C3%A9es%20Immobili%C3%A8re)
 
 ---
 
-### 💶 Détection de faux billets  
+### 💶 Détection de faux billets 
+![finance](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/detecter%20faux%20billet.png)
+
 **Scikit-learn**  
 ACP, régression logistique, modèles supervisés  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/D%C3%A9tectez%20des%20faux%20billets)
@@ -70,19 +88,24 @@ Suivi coûts • délais • qualité
 
 ---
 
-### 💧 Étude sur l’eau potable  
+### 💧 Étude sur l’eau potable
+![eau potable](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20eau%20potable.png)
+
 Collecte, préparation et analyse  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Etude%20sur%20l%E2%80%99eau%20potable)
 
 ---
 
 ### 🐔 Étude de marché (aviculture)  
+![aviculteur](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20de%20marche%20aviculteur.png)
+
 Machine Learning non supervisé : ACP + clustering  
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portofolio-Data-Analyst/tree/fca23d148147b3996522034e79568c7118dd62dd/Mes_projets/Etude%20de%20march%C3%A9%20pour%20projet%20d'export)
 
 ---
 
 ### ✈️ Livrables AéroWorld  
+
 Gestion de projet, veille métier & dataviz  
 ➡️ [Voir](https://github.com/Elodie-M7/Dossier-de-candidature-A-roworld/tree/bf15a8f4dc7c32eb91e27c5e03de7333a67fce4f/Livrables)
 
@@ -114,6 +137,7 @@ Analytique • Curiosité • Storytelling • Adaptation • Empathie • Rigue
 ---
 
 ## 📬 Contact
+![linkedin](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/Profil%20Linkedin.png)
 
 📎 **LinkedIn** :  
 [www.linkedin.com/in/elodie-mendes-9905ba116](https://www.linkedin.com/in/elodie-mendes-9905ba116/)
