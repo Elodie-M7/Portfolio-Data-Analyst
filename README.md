@@ -1,7 +1,3 @@
----
-layout: home
-title: "Élodie Mendes • Data Analyst"
----
 
 <p align="center">
   <img src="https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/main/assets/images/photo-pour-github.jpg" width="160" style="border-radius: 100%;"/>
