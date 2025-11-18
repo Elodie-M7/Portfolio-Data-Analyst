@@ -28,7 +28,7 @@
 ## Projets Data
 
 ### Analyse de vente pour la grande distribution
-![marketing](/img/LegrandMarchébannière.png)
+![marketing](img/Le-grand-Marché-bannière.png)
 
 **Data visualisation, Storytelling**
 
@@ -43,7 +43,7 @@
 ➡️ [Voir le projet](https://github.com/Elodie-M7/Portfolio-Data-Analyst/tree/435efbf008e94f08ae1361facf9b15bee76f0dcd/Mes_projets/Analyse%20marketing%20Grande%20Distribution)
 
 ### 📘 Analyse des ventes d’une librairie
-![librairie](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/06112aae6dadc525fd47262a6fdeb69ee76d7eea/img/librairie%20en%20ligne.png)
+![librairie](img/librairie-en-ligne.png)
 
 **Python, Pandas,Tests statistiques, corrélations** 
 
@@ -60,7 +60,7 @@
 ---
 
 ### 📦 Optimisation des données e-commerce  
-![boutique vin](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/boutique%20vin.png)
+![boutique vin](img/boutique-vin.png)
 
 **Python,Consolidation, nettoyage, EDA**  
 
@@ -77,7 +77,7 @@
 ---
 
 ### 🩺 Étude de santé publique
-![santé FAO](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20sante%20publique.png)
+![santé FAO](img/etude-sante-publique.png)
 
 **Python,Nettoyage, analyses exploratoires**
 
@@ -94,7 +94,7 @@
 ---
 
 ### 🏠 Base de données immobilière SQL
-![immobilier](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/agence%20immobili%C3%A8re.png)
+![immobilier](img/agence-immobilière.png)
 
 **Modélisation (MCD), +20 requêtes SQL**
 
@@ -111,7 +111,7 @@
 ---
 
 ### 💶 Détection de faux billets 
-![finance](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/detecter%20faux%20billet.png)
+![finance](img/detecter-faux-billet.png)
 
 **Scikit-learn,ACP, régression logistique, modèles supervisés**
 
@@ -144,7 +144,7 @@
 ---
 
 ### 💧 Étude sur l’eau potable
-![eau potable](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20eau%20potable.png)
+![eau potable](img/etude-eau-potable.png)
 
 **Collecte, préparation et analyse,Power Query** 
 
@@ -163,7 +163,7 @@ Création de services d’accès à l’eau potable, modernisation de services d
 ---
 
 ### 🐔 Étude de marché (aviculteur)  
-![aviculteur](https://github.com/Elodie-M7/Portfolio-Data-Analyst/blob/14e870c12386b454fcffd79204738e48f455914d/img/etude%20de%20marche%20aviculteur.png)
+![aviculteur](img/etude-de-marche-aviculteur.png)
 
 **Machine Learning non supervisé : ACP + clustering**
 
