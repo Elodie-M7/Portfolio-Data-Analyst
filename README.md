@@ -10,6 +10,11 @@ title: "Élodie Mendes • Data Analyst"
 <h1 align="center">Élodie MENDES</h1>
 <h3 align="center">Data Analyst • Cheffe de Projet Data</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/elodie-mendes-9905ba116/">
+    <img src="https://img.shields.io/badge/LinkedIn-Elodie%20Mendes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## À propos
