@@ -131,7 +131,7 @@
 
 **Dashboard interactif**  Suivi coûts • délais • qualité  
 
-*Contexte* : Une entreprise dans les soins bucco-dentaires a plusieurs projets en cours et n'arrive plus à suivre son activité.
+*Contexte* : Une entreprise dans les soins bucco-dentaires a plusieurs projets en cours et n'arrive plus à suivre les différents projets en cours.
 
 *Objectif* :  Créer un tableau de bord pour piloter ses projets et suivre leurs performances pour les 3 directions (Général, Régional et Pays)
 
