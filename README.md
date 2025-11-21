@@ -13,7 +13,7 @@
 </p>
 ---
 
-## À propos
+## À propos de moi
 
 10 ans d’expérience dans les **achats internationaux**, aujourd’hui spécialisée dans :
 
